@@ -1,5 +1,5 @@
 
-Đây là README được chỉnh sửa từ nhánh main.
+Hello mọi người
 
 Đây là README được chỉnh sửa từ nhánh conflict-demo.
 
