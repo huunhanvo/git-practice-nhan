@@ -1,4 +1,7 @@
 Sở thích: chơi thể thao
 
 Kỹ năng: thành thạo 1 số ngôn ngữ lập trình
+<<<<<<< HEAD
  đi đánh banh không bạn hỡi
+ nhảy dây, bắn bi ,đá cầu
+>>>>>>> origin/main
