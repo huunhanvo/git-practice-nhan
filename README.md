@@ -5,3 +5,4 @@ Hello mọi người
 
 
 Giới thiệu: Tôi là Võ Hữu Nhân, 220852
+Thêm ghi chú buổi 2
